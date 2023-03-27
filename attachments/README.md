@@ -1,0 +1,2 @@
+# obsidianmd_template
+ 
